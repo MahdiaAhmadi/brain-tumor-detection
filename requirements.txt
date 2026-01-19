@@ -6,4 +6,5 @@ seaborn
 torch
 tensorflow
 kaggle 
-
+ipykernal
+opencv-python
